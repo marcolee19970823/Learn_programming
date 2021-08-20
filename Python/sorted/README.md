@@ -1,1 +1,1 @@
-Python's built-in function sorted().
+Python's built-in function: sorted().
