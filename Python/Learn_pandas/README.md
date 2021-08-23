@@ -10,6 +10,11 @@ In this video, you will know what is "Index" of pandas' Series and DataFrame and
 
 https://www.bilibili.com/video/BV1Ni4y1t7tf?p=23
 
+
 This video tells you how to use apply() to efficiently generate a new Series and add a new column to a existed DataFrame.
 
 https://www.bilibili.com/video/BV18C4y1a7iw
+
+Not familiar with groupby()? Please watch this video.
+
+https://www.bilibili.com/video/BV1eZ4y1W7wH
